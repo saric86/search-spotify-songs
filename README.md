@@ -1,5 +1,4 @@
-# Try page at Vercel:
-https://search-spotify-songs.vercel.app/
+# Run this project on your local server!
 
 # Getting Started with Create React App
 
